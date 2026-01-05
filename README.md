@@ -3,7 +3,7 @@
 This repository contains my undergraduate course research project (Dec 2025) comparing a CNN-based U-Net and a Vision-Transformer-based segmentation model on **surgical tool segmentation**, with an emphasis on **robustness under realistic operating-room disturbances**.
 
 ## Paper
-- [PDF](paper/Comparative_Evaluation_UNet_ViTUNet_EndoVis2017.pdf)
+- [PDF](Comparative_Evaluation_UNet_ViTUNet_EndoVis2017.pdf)
 
 ## Summary
 - Dataset: EndoVis 2017 (tool masks), resized to 256×256, ImageNet normalization.
